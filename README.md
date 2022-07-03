@@ -1,4 +1,4 @@
 # RGMP
 
 This code is used for validating the time consumption of raw vibration signal and statistical indicator. 
-You can change the tensors size.
+You can change the tensors size by modifying the mainSun.py.
